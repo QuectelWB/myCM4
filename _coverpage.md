@@ -1,4 +1,4 @@
-<img width="600px"  src="QuectelLogo.png">
+<img width="600px"  src="CM4.png">
 
 # RaspberryPi CM4
 
